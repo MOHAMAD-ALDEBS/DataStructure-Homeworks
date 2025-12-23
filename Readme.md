@@ -8,9 +8,10 @@ Bu repository, C programlama dilinde temel veri yapıları ve algoritmaların uy
 
 ## 👨‍💼 Öğrenci Bilgileri
 
-**Öğrenci Adı:** [MOHAMAD ALDEBS]  
-**Öğrenci Numarası:** [2110206583]  
-**Ders:** Veri Yapıları ve Algoritmalar / DATA STRUCTURE  
+**Öğrenci Adı:** MOHAMAD ALDEBS  
+**Öğrenci Numarası:** 2110206583 
+**Ders Hocası:** Prof. Dr. Kurşat Mustafa KARAOĞLAN
+**Ders:** DATA STRUCTURE  
 
 ---
 
