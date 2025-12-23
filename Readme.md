@@ -1,6 +1,6 @@
-# Veri Yapıları ve Algoritmalar - Ödev Koleksiyonu
+# DATA SRUCTURE - Ödevler
 
-Bu repository, C programlama dilinde temel veri yapıları ve algoritmaların uygulamalarını içermektedir.
+Bu repository, C programlama dilinde DATA SRUCTURE Dersin ödeveleri içermektedir.
 
 
 
@@ -9,8 +9,8 @@ Bu repository, C programlama dilinde temel veri yapıları ve algoritmaların uy
 ## 👨‍💼 Öğrenci Bilgileri
 
 **Öğrenci Adı:** MOHAMAD ALDEBS  
-**Öğrenci Numarası:** 2110206583 
-**Ders Hocası:** Prof. Dr. Kurşat Mustafa KARAOĞLAN
+**Öğrenci Numarası:** 2110206583  
+**Ders Hocası:** Prof. Dr. Kurşat Mustafa KARAOĞLAN  
 **Ders:** DATA STRUCTURE  
 
 ---
