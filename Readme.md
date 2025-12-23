@@ -42,7 +42,7 @@ Bu repository, C programlama dilinde DATA SRUCTURE Dersin ödeveleri içermekted
 
 ## 🎯 Öğrenme Çıktıları
 
-Bu repository tamamlandıktan sonra şunları öğreneceksiniz:
+Bu ödevler tamamlandıktan sonra şunlar öğrenildi :
 
 ✅ Temel veri yapılarının tasarımı ve uygulanması  
 ✅ Bellek yönetimi (malloc, free, realloc)  
@@ -55,4 +55,3 @@ Bu repository tamamlandıktan sonra şunları öğreneceksiniz:
 
 
 **Son Güncelleme:** 23 Aralık 2025  
-**Versiyon:** 1.0
